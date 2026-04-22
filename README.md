@@ -1,3 +1,3 @@
-# Dashboarding-Where-Data-Becomes-Insights
+# Dashboarding: Where Data Becomes Insights
 
 This hands-on workshop focuses on uncovering the story hidden in your data through effective dashboarding in SAS® Visual Analytics. Participants will explore a real-world airline scenario and learn how to build meaningful visualizations. We’ll see how thoughtful visual design can help answer practical questions, such as understanding ticket pricing behavior or identifying factors that contribute to flight no-shows. Step by step, we’ll create graphics that surface patterns and trends, transforming data from static numbers into a story that supports better decisions. 
